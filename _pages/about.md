@@ -17,16 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a master's candidate from the Department of Earth and Space Sciences, Southern University of Science and Technology, Shenzhen China, advised by [Prof. Dikun Yang](https://scholar.lanfanshu.cn/citations?hl=zh-CN&user=BFpLy2cAAAAJ) and expected to be conferred upon Master degree in 2025. Over the past three years, I have been engaged in advancing geophysical methods and addressing engineering geophysics issues, including contamination site investigations and karst cave location.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes:
+- Electrical resisitivity tomography (ERT)
+- Multichannel analysis of surface waves (MASW) 
+- Seismic ambient noise imaging
+- Shallow surface geophysics, Environmental issues.
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
+# 🔥 Educations
+- *2022.09 - now*, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA 3.56/4). 
+- *2018.09 - 2022.06*, <a href="https://english.yangtzeu.edu.cn/"><img class="png" src="images/Yangtz-512x512.png" width="26pt"></a> Yangtze University, Wuhan China (GPA: 3.73/5, rank 5/43). 
 
-# 📝 Publications 
+# 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,17 +50,48 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Presentations
+- <p>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Interpreting cross-river underwater electric resistivity data for dam construction: Lessons learned from 2D and 3D inversions.</em> <br>
+  <span class="underline">Daopu Wang,</span>
+  Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2024)</a>, August 26-30, 2024, Houston, Texas, USA.</p>
+- <p>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Development and Application of Joint Nodal Acquisition Stations for Seismic and ERT data. </em><br>
+ <span class="underline">Daopu Wang,</span>
+  Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://ess.sustech.edu.cn/iceeg2024/" target="_blank" rel="noopener noreferrer">(11th ICEEG)</a>, June 27 - 30, Shenzhen, China.</p>
+- <p>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Underwater ERT method to image Karst cave distribution below the river water. </em> <br>
+  <span class="underline">Daopu Wang,</span>
+  Haibin Chai, Dikun Yang, The Seventh International Conference on Engineering Geophysics <a href="https://conferences.uaeu.ac.ae/iceg2023/en/" target="_blank" rel="noopener noreferrer">(7th ICEG)</a>, October 16 - 19, 2023, AI-Ain, UAE.</p>
+- <p>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Electric resistivity tomography inversion guided by passive microtremor data for detection of karst cavities. </em><br>
+  <span class="underline">Daopu Wang,</span>
+  Dikun Yang, Zhentao Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2023)</a>, August 26-30, 2023, Houston, Texas, USA.</p>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Fellowships and Awards
+<ul>
+  <li>2023.10 The <span class="highlight">third prize</span> in the Eighth National College Students "Innovation Cup" Geophysical Knowledge Competition
+  <strong>(￥1000)</strong>. 
+   <a href="https://newshub.sustech.edu.cn/html/202306/43985.html" target="_blank" rel="noopener noreferrer">Newsreport</a>
+  </li>
+  <li>2021.09 The <span class="highlight">second prize</span> in the Seventh National College Students "Innovation Cup" Geophysical Knowledge Competition.</li>
+  <li>2019.12 The <span class="highlight">National Encouragement Scholarship</span><strong>(￥5000)</strong>.</li>
+</ul>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Societies
+- *2024.08*, Volunteer at the International Meeeting for Applied Geoscience and Energy, Houston, Texas`(IMAGE'24).` 
+- *2024.06*, Volunteer at the 11th International Conference on Environmental and Engineering Geophyscis, Shenzhen, China `(ICEEG2024).`
+- *2024.05*, Volunteer at the International Workshop on Gravity, Electrical & Magnetic Methods and Their Applications, Shenzhen, China`(GEM 2024).`
+- *2023.08*, Volunteer at the 16th China International Geo-electromagnetism Workshop, Shenzhen, China `(CIGEW2023).`
+- *2023.06 - 2023.09,* Seminar Assistant at the Department of Earth and Space Sciences in SUSTechm Shenzhen, China. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Skills and Language
+- **Programming**: Python, Matlab, Jekyll, Linux, etc.
+- **Softwares**: SimPEG, SSMT2000, SAC, Adobe(Ps, LR), Cartopy, etc.
+- **Instrument**: SmartSolo geophone, Phoneix system MTU-5A, Multi-channel electrical system GD-20, RTK, etc.
+- **Language**: Mandarian (Native), English (IELTS 6.5)
+
+# Interests
+- **Sports**: Swimming, Hiking.
+- **Photography**: [Photography Portfolio](https://www.xiaohongshu.com/user/profile/5f8ef7ff0000000001002b56)
+- **Volunteering**: Conferences Volunteering(100+ hours), feel individual energy and zest for life first hand.

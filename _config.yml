@@ -1,15 +1,15 @@
 # Welcome to Jekyll!
-#
+#/media/wdp/KINGSTON/git/sustech.svg
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Daopu Wang"
+description              : "This page aims for displaying individual condition"
+repository               : "vianwan/vianwan.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Daopu Wang"
+  avatar           : "images/wdp.png"
+  bio              : "Southern University of Science and Technology (SUSTech)"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=L1Kqu04AAAAJ&hl"
+  email            : "wangdp77@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Daopu-Wang"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "VianWan"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : #"https://www.instagram.com/daopuwang?igsh=MWxobjZtc3p6bjg2Zw=="
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong-Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zoneses
 
 
 # Plugins
