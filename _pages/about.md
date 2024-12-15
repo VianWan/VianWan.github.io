@@ -25,30 +25,33 @@ My research interest includes:
 - Seismic ambient noise imaging
 - Shallow surface geophysics, Environmental issues.
 
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
 # 🎓 Educations
 - *2022.09 - now*, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA 3.56/4). 
 - *2018.09 - 2022.06*, <a href="https://english.yangtzeu.edu.cn/"><img class="png" src="images/Yangtz-512x512.png" width="26pt"></a> Yangtze University, Wuhan China (GPA: 3.73/5, rank 5/43). 
 
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10 </div><img src='images/MT.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- When conducting a nearshore Magnetotelluric (MT) survey, there are difficulties such as the magnetometer being vulnerable to water and the magnetic field affected by seawater current and other electromagnetic interferences.
+- To resolve such problems, the MT survey adopted by the inter-station pattern as an alternative regular measurement is preferable. An experiment of inter-station acquisition was conducted in Zhanjiang, Guangdong, which records the onshore magnetic field data and the seafloor electric field data nearly 3km away from the magnetic observation station.
+- We hired two local fishing boats to conduct the acquisition of seafloor electric signals. One boat carried an electrode with a cable connected to the main ship, and the cable was manually laid into the water as the ship moved in a specific direction. When the boat reached its set location, we added the 3kg weights on the electrode to reduce the interference water flow may have on the position of the electrode, and then put it into the seafloor. Repeat this process until all four electrodes are set at the bottom of the sea. Whereafter, the main boat carrying the MT meter (MTU-5A), maintained a stable location and took measurements according to the pre-set script. Meanwhile, another MT meter recorded onshore magnetic signals simultaneously. After 18 hours of continuous data collection, the equipment was recovered.
+- The impedance obtained from inter-station acquisition showed a downward trend in the low-frequency range compared to regular impedance, consistent with previous synthetic simulation results.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.12 </div><img src='images/crossriverERT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Under construction :).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.12 </div><img src='images/longgangproject.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- waiting a minutes!
+
+</div>
+</div>
 
 # 💬 Presentations
 - <p>
@@ -79,7 +82,7 @@ My research interest includes:
 </ul>
 
 # 🧸 Societies
-- *2024.08*, Volunteer at the International Meeeting for Applied Geoscience and Energy, Houston, Texas`(IMAGE'24).` 
+- *2024.08*, Volunteer at the International Meeeting for Applied Geoscience and Energy, Houston, Texas, USA`(IMAGE'24).` 
 - *2024.06*, Volunteer at the 11th International Conference on Environmental and Engineering Geophyscis, Shenzhen, China `(ICEEG2024).`
 - *2024.05*, Volunteer at the International Workshop on Gravity, Electrical & Magnetic Methods and Their Applications, Shenzhen, China`(GEM 2024).`
 - *2023.08*, Volunteer at the 16th China International Geo-electromagnetism Workshop, Shenzhen, China `(CIGEW2023).`
