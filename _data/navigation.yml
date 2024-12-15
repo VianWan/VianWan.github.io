@@ -16,10 +16,10 @@ main:
     url: "/#-fellowships-and-awards"
  
   - title: "Societies"
-    url: "/#societies"
+    url: "/#-societies"
 
   - title: "Skills and Language"
-    url: "/skills-and-language"
+    url: "/#-skills-and-language"
 
   - title: "Interests"
-    url: "/interests"
+    url: "/#-interests"

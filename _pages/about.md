@@ -30,7 +30,7 @@ My research interest includes:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
-# 🔥 Educations
+# 🎓 Educations
 - *2022.09 - now*, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA 3.56/4). 
 - *2018.09 - 2022.06*, <a href="https://english.yangtzeu.edu.cn/"><img class="png" src="images/Yangtz-512x512.png" width="26pt"></a> Yangtze University, Wuhan China (GPA: 3.73/5, rank 5/43). 
 
@@ -78,20 +78,20 @@ My research interest includes:
   <li>2019.12 The <span class="highlight">National Encouragement Scholarship</span><strong>(￥5000)</strong>.</li>
 </ul>
 
-# Societies
+# 🧸 Societies
 - *2024.08*, Volunteer at the International Meeeting for Applied Geoscience and Energy, Houston, Texas`(IMAGE'24).` 
 - *2024.06*, Volunteer at the 11th International Conference on Environmental and Engineering Geophyscis, Shenzhen, China `(ICEEG2024).`
 - *2024.05*, Volunteer at the International Workshop on Gravity, Electrical & Magnetic Methods and Their Applications, Shenzhen, China`(GEM 2024).`
 - *2023.08*, Volunteer at the 16th China International Geo-electromagnetism Workshop, Shenzhen, China `(CIGEW2023).`
 - *2023.06 - 2023.09,* Seminar Assistant at the Department of Earth and Space Sciences in SUSTechm Shenzhen, China. 
 
-# Skills and Language
+# 🏄 Skills and Language
 - **Programming**: Python, Matlab, Jekyll, Linux, etc.
 - **Softwares**: SimPEG, SSMT2000, SAC, Adobe(Ps, LR), Cartopy, etc.
 - **Instrument**: SmartSolo geophone, Phoneix system MTU-5A, Multi-channel electrical system GD-20, RTK, etc.
 - **Language**: Mandarian (Native), English (IELTS 6.5)
 
-# Interests
+# 📷 Interests
 - **Sports**: Swimming, Hiking.
 - **Photography**: [Photography Portfolio](https://www.xiaohongshu.com/user/profile/5f8ef7ff0000000001002b56)
 - **Volunteering**: Conferences Volunteering(100+ hours), feel individual energy and zest for life first hand.
