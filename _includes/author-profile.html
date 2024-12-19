@@ -1,6 +1,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+<!-- All the icon from FontAwsome, you can change into you like one -->
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
@@ -117,7 +118,11 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}" target="_blank"><i class="fas fa-fw fa-portrait" aria-hidden="true"></i> CV</a></li>
+     {% endif %}
+
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -213,6 +218,9 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.cv %}
+      <a href="{{ author.cv }}" target="_blank"><i class="fas fa-fw fa-portrait" aria-hidden="true"></i></a>
+    {% endif %}
     </div>
   </div>
 </div>

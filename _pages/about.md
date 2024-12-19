@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's candidate from the Department of Earth and Space Sciences, Southern University of Science and Technology, Shenzhen China, advised by [Prof. Dikun Yang](https://scholar.lanfanshu.cn/citations?hl=zh-CN&user=BFpLy2cAAAAJ) and expected to be conferred upon Master's degree in 2025.
+I am currently a master's candidate from the Department of Earth and Space Sciences, Southern University of Science and Technology, Shenzhen China, advised by [Prof. Dikun Yang](https://scholar.lanfanshu.cn/citations?hl=zh-CN&user=BFpLy2cAAAAJ) and expect to be conferred upon Master's degree in 2025.
 Over the past three years, I have been engaged in advancing geophysical methods and addressing engineering geophysics issues, including contamination site investigations and karst cave location.
 
 My research interest includes:
@@ -52,7 +52,7 @@ My research interest includes:
  - The inverted resistivity profiles revealed high-resistance anomalies in the surface layer and bedrock which were interpreted as gravel, pebble, and limestone. Meanwhile, they delineated the spatial distribution of low
    resistance anomalies such as sandstone and conglomerate. 
  - Deploying electrodes in water to observe underground resistivity structure is highly challenging, nevertheless, it will provide guidance significant for subsequent underwater geological structure imaging.
- - more details in [[PDF]](/appendix/wang-et-al-2024-underwater-ert-method-to-image-karst-cave-distribution-below-the-river-water.pdf).
+ - more details in [[PDF]](/appendix/wang-et-al-2024-underwater-ert-method-to-image-karst-cave-distribution-below-the-river-water.pdf)     [[PPT]](/appendix/2023ICEG_EastRiver.pptx).
 </div>
 </div>
 
@@ -109,9 +109,9 @@ My research interest includes:
 - **Programming**: Python, Matlab, Jekyll, Linux, etc.
 - **Softwares**: SimPEG, SSMT2000, SAC, Adobe(Ps, LR), Cartopy, etc.
 - **Instrument**: SmartSolo geophone, Phoneix system MTU-5A, Multi-channel electrical system GD-20, RTK, etc.
-- **Language**: Mandarian (Native), English (IELTS 6.5)
+- **Language**: Mandarin (Native), English (IELTS 6.5)
 
 # 📷 Interests
 - **Sports**: Swimming, Hiking.
-- **Photography**: [Photography Portfolio](https://www.xiaohongshu.com/user/profile/5f8ef7ff0000000001002b56)
+- **Photography**: [Photography Portfolio](https://www.xiaohongshu.com/user/profile/5f8ef7ff0000000001002b56) Sometimes I just wanna go out and enjoy the sunshine.
 - **Volunteering**: Conferences Volunteering(100+ hours), feel individual energy and zest for life first hand.
