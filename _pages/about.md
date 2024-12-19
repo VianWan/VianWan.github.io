@@ -52,7 +52,7 @@ My research interest includes:
  - The inverted resistivity profiles revealed high-resistance anomalies in the surface layer and bedrock which were interpreted as gravel, pebble, and limestone. Meanwhile, they delineated the spatial distribution of low
    resistance anomalies such as sandstone and conglomerate. 
  - Deploying electrodes in water to observe underground resistivity structure is highly challenging, nevertheless, it will provide guidance significant for subsequent underwater geological structure imaging.
- - more details in [[PDF]](/appendix/wang-et-al-2024-underwater-ert-method-to-image-karst-cave-distribution-below-the-river-water.pdf)     [[PPT]](/appendix/2023ICEG_EastRiver.pptx).
+ - more details in [[PDF]](/appendix/wang-et-al-2024-underwater-ert-method-to-image-karst-cave-distribution-below-the-river-water.pdf)     [[PPT]](/appendix/2023ICEG_EastRiverPPT.pdf).
 </div>
 </div>
 
@@ -65,7 +65,7 @@ My research interest includes:
   and employing it as a model constraint for the ERT inversion, we can alleviate the sensitivity of the results to the initial model.
 <!-- - The ERT survey is carried out along a line of 40 electrodes with a spacing of 5m. At the same time, we place 81 nodal seismic stations to continuously collect 1-hour ambient seismic noise. -->
 - A field survey demonstrates that ERT inversion with seismic constraint not only confirms the general distribution of the three cavities but also provides higher resolution compared to regular inversion.
-- more details in [[PDF]](/appendix/2023SEG_ERTguidedbyANT.pdf) [[PPT]](/appendix/2023SEG_ERTguidedbyANT.pptx).
+- more details in [[PDF]](/appendix/2023SEG_abstract.pdf) [[PPT]](/appendix/2023SEGPPT.pdf).
 
 </div>
 </div>
@@ -107,7 +107,7 @@ My research interest includes:
 
 # 🏄 Skills and Language
 - **Programming**: Python, Matlab, Jekyll, Linux, etc.
-- **Softwares**: SimPEG, SSMT2000, SAC, Adobe(Ps, LR), Cartopy, etc.
+- **Softwares**: SimPEG, ObsPy, SSMT2000, SAC, Adobe(Ps, LR), Cartopy, etc.
 - **Instrument**: SmartSolo geophone, Phoneix system MTU-5A, Multi-channel electrical system GD-20, RTK, etc.
 - **Language**: Mandarin (Native), English (IELTS 6.5)
 
