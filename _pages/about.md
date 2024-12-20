@@ -72,7 +72,7 @@ My research interest includes:
 
 # 💬 Presentations
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Interpreting cross-river underwater electric resistivity data for dam construction: Lessons learned from 2D and 3D inversions.</em> <br>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Poster</strong></span>: <em>Interpreting cross-river underwater electric resistivity data for dam construction: Lessons learned from 2D and 3D inversions.</em> <br>
   <span class="underline">Daopu Wang,</span>
   Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2024)</a>, August 26-30, 2024, Houston, Texas, USA.</p>
 - <p>
