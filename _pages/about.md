@@ -27,8 +27,8 @@ My research interest includes:
 - Shallow surface geophysics, Environmental issues.
 
 # 🎓 Educations
-- *2022.09 - now*, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA 3.56/4). 
-- *2018.09 - 2022.06*, <a href="https://english.yangtzeu.edu.cn/"><img class="png" src="images/Yangtz-512x512.png" width="26pt"></a> Yangtze University, Wuhan China (GPA: 3.73/5, rank 5/43). 
+- 2022.09 - now, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA: 3.56/4). 
+- 2018.09 - 2022.06, <a href="https://english.yangtzeu.edu.cn/"><img class="png" src="images/Yangtz-512x512.png" width="26pt"></a> Yangtze University, Wuhan China (GPA: 3.73/5, Rank: 4/43). 
 
 # 📝 Projects
 
@@ -72,29 +72,29 @@ My research interest includes:
 
 # 💬 Presentations
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Poster</strong></span>: <em>Interpreting cross-river underwater electric resistivity data for dam construction: Lessons learned from 2D and 3D inversions.</em> <br>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Poster</strong></span>: <em>Interpreting Cross-river Underwater Electric Resistivity Data for Dam Construction: Lessons Learned from 2D and 3D Inversions.</em> <br>
   <span class="underline">Daopu Wang,</span>
   Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2024)</a>, August 26-30, 2024, Houston, Texas, USA.</p>
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Development and Application of Joint Nodal Acquisition Stations for Seismic and ERT data. </em><br>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Development and Application of Joint Nodal Acquisition Stations for Seismic and ERT Data. </em><br>
  <span class="underline">Daopu Wang,</span>
   Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://ess.sustech.edu.cn/iceeg2024/" target="_blank" rel="noopener noreferrer">(11th ICEEG)</a>, June 27 - 30, 2024, Shenzhen, China.</p>
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Underwater ERT method to image Karst cave distribution below the river water. </em> <br>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Underwater ERT Method to Image Karst Cave Distribution Below the River Water. </em> <br>
   <span class="underline">Daopu Wang,</span>
   Haibin Chai, Dikun Yang, The Seventh International Conference on Engineering Geophysics <a href="https://conferences.uaeu.ac.ae/iceg2023/en/" target="_blank" rel="noopener noreferrer">(7th ICEG)</a>, October 16 - 19, 2023, AI-Ain, UAE.</p>
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Electric resistivity tomography inversion guided by passive microtremor data for detection of karst cavities. </em><br>
+  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Electric Resistivity Tomography Inversion Guided by Passive Microtremor Data for Detection of Karst Cavities. </em><br>
   <span class="underline">Daopu Wang,</span>
   Dikun Yang, Zhentao Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2023)</a>, August 26-30, 2023, Houston, Texas, USA.</p>
 
 # 🎖 Fellowships and Awards
 <ul>
-  <li>2023.10 The <span class="highlight">third prize</span> in the Eighth National College Students "Innovation Cup" Geophysical Knowledge Competition
+  <li>2023.10 The <span class="highlight">Third prize</span> in the Eighth National College Students "Innovation Cup" Geophysical Knowledge Competition
   <strong>(￥1000)</strong>. 
    <a href="https://newshub.sustech.edu.cn/html/202306/43985.html" target="_blank" rel="noopener noreferrer">Newsreport</a>
   </li>
-  <li>2021.09 The <span class="highlight">second prize</span> in the Seventh National College Students "Innovation Cup" Geophysical Knowledge Competition.</li>
+  <li>2021.09 The <span class="highlight">Second prize</span> in the Seventh National College Students "Innovation Cup" Geophysical Knowledge Competition.</li>
   <li>2019.12 The <span class="highlight">National Encouragement Scholarship</span><strong>(￥5000)</strong>.</li>
 </ul>
 
@@ -105,13 +105,13 @@ My research interest includes:
 - *2023.08*, Volunteer at the 16th China International Geo-electromagnetism Workshop, Shenzhen, China `(CIGEW2023).`
 - *2023.06 - 2023.09,* Seminar Assistant at the Department of Earth and Space Sciences in SUSTechm Shenzhen, China. 
 
-# 🏄 Skills and Language
+# 🏄 Skills and Languages
 - **Programming**: Python, Matlab, Jekyll, Linux, etc.
-- **Softwares**: SimPEG, ObsPy, SSMT2000, SAC, Adobe(Ps, LR), Cartopy, etc.
-- **Instrument**: SmartSolo geophone, Phoneix system MTU-5A, Multi-channel electrical system GD-20, RTK, etc.
-- **Language**: Mandarin (Native), English (IELTS 6.5)
+- **Software**: SimPEG, SSMT2000, SAC, Adobe (Photoshop, Lightroom), Cartopy, Disba, etc.
+- **Instruments**: SmartSolo Geophone, Phoenix System MTU-5A, Multi-channel Electrical System GD-20, RTK, etc.
+- **Language**: Mandarin (Native), English (IELTS 6.5).
 
 # 📷 Interests
 - **Sports**: Swimming, Hiking.
 - **Photography**: [Photography Portfolio](https://www.xiaohongshu.com/user/profile/5f8ef7ff0000000001002b56) Sometimes I just wanna go out and enjoy the sunshine.
-- **Volunteering**: Conferences Volunteering(100+ hours), feel individual energy and zest for life first hand.
+- **Volunteering**: Conferences Volunteering(100+ hours), maintain individual dedication and zest for life first hand.
