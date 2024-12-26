@@ -27,7 +27,7 @@ My research interest includes:
 - Shallow surface geophysics, Environmental issues.
 
 # 🎓 Educations
-- 2022.09 - now, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA: 3.56/4). 
+- 2022.09 - Present, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA: 3.56/4). 
 - 2018.09 - 2022.06, <a href="https://english.yangtzeu.edu.cn/"><img class="png" src="images/Yangtz-512x512.png" width="26pt"></a> Yangtze University, Wuhan China (GPA: 3.73/5, Rank: 4/43). 
 
 # 📝 Projects
@@ -72,29 +72,29 @@ My research interest includes:
 
 # 💬 Presentations
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Poster</strong></span>: <em>Interpreting Cross-river Underwater Electric Resistivity Data for Dam Construction: Lessons Learned from 2D and 3D Inversions.</em> <br>
+  <span style="background-color: #F8FAFC; color: #AA5486; padding: 0 3px;"><strong>Poster</strong></span>: <span style="background-color: #F2F9FF; color: #474E93; padding: 0 3px;"><strong>Interpreting Cross-river Underwater Electric Resistivity Data for Dam Construction: Lessons Learned from 2D and 3D Inversions.</strong></span><br>
   <span class="underline">Daopu Wang,</span>
   Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2024)</a>, August 26-30, 2024, Houston, Texas, USA.</p>
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Development and Application of Joint Nodal Acquisition Stations for Seismic and ERT Data. </em><br>
+  <span style="background-color: #F8FAFC; color: #AA5486; padding: 0 3px;"><strong>Oral</strong></span>: <span style="background-color: #F2F9FF; color: #474E93; padding: 0 3px;"><strong>Development and Application of Joint Nodal Acquisition Stations for Seismic and ERT Data.</strong></span><br>
  <span class="underline">Daopu Wang,</span>
-  Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://ess.sustech.edu.cn/iceeg2024/" target="_blank" rel="noopener noreferrer">(11th ICEEG)</a>, June 27 - 30, 2024, Shenzhen, China.</p>
+  Dikun Yang, The International Meeting for Applied Geoscience and Energy <a href="https://ess.sustech.edu.cn/iceeg2024/" target="_blank" rel="noopener noreferrer">(11th ICEEG)</a>, June 27-30, 2024, Shenzhen, China.</p>
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Underwater ERT Method to Image Karst Cave Distribution Below the River Water. </em> <br>
+  <span style="background-color: #F8FAFC; color: #AA5486; padding: 0 3px;"><strong>Oral</strong></span>: <span style="background-color: #F2F9FF; color: #474E93; padding: 0 3px;"><strong>Underwater ERT Method to Image Karst Cave Distribution Below the River Water.</strong></span><br>
   <span class="underline">Daopu Wang,</span>
-  Haibin Chai, Dikun Yang, The Seventh International Conference on Engineering Geophysics <a href="https://conferences.uaeu.ac.ae/iceg2023/en/" target="_blank" rel="noopener noreferrer">(7th ICEG)</a>, October 16 - 19, 2023, AI-Ain, UAE.</p>
+  Haibin Chai, Dikun Yang, The Seventh International Conference on Engineering Geophysics <a href="https://conferences.uaeu.ac.ae/iceg2023/en/" target="_blank" rel="noopener noreferrer">(7th ICEG)</a>, October 16-19, 2023, AI Ain, UAE.</p>
 - <p>
-  <span style="background-color: #F7EEDD; color: #008DDA; padding: 0 3px;"><strong>Oral</strong></span>: <em>Electric Resistivity Tomography Inversion Guided by Passive Microtremor Data for Detection of Karst Cavities. </em><br>
+  <span style="background-color: #F8FAFC; color: #AA5486; padding: 0 3px;"><strong>Oral</strong></span>: <span style="background-color: #F2F9FF; color: #474E93; padding: 0 3px;"><strong>Electric Resistivity Tomography Inversion Guided by Passive Microtremor Data for Detection of Karst Cavities.</strong></span><br>
   <span class="underline">Daopu Wang,</span>
   Dikun Yang, Zhentao Yang, The International Meeting for Applied Geoscience and Energy <a href="https://www.imageevent.org/" target="_blank" rel="noopener noreferrer">(IMAGE2023)</a>, August 26-30, 2023, Houston, Texas, USA.</p>
 
 # 🎖 Fellowships and Awards
 <ul>
-  <li>2023.10 The <span class="highlight">Third prize</span> in the Eighth National College Students "Innovation Cup" Geophysical Knowledge Competition
+  <li>2023.10 The <span class="highlight">Third Prize</span> in the Eighth National College Students "Innovation Cup" Geophysical Knowledge Competition
   <strong>(￥1000)</strong>. 
    <a href="https://newshub.sustech.edu.cn/html/202306/43985.html" target="_blank" rel="noopener noreferrer">Newsreport</a>
   </li>
-  <li>2021.09 The <span class="highlight">Second prize</span> in the Seventh National College Students "Innovation Cup" Geophysical Knowledge Competition.</li>
+  <li>2021.09 The <span class="highlight">Second Prize</span> in the Seventh National College Students "Innovation Cup" Geophysical Knowledge Competition.</li>
   <li>2019.12 The <span class="highlight">National Encouragement Scholarship</span><strong>(￥5000)</strong>.</li>
 </ul>
 
