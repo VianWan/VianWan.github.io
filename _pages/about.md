@@ -20,11 +20,11 @@ redirect_from:
 I am currently a master's candidate from the Department of Earth and Space Sciences, Southern University of Science and Technology, Shenzhen China, advised by [Prof. Dikun Yang](https://scholar.lanfanshu.cn/citations?hl=zh-CN&user=BFpLy2cAAAAJ) and expect to be conferred upon Master's degree in 2025.
 Over the past three years, I have been engaged in advancing geophysical methods and addressing engineering geophysics issues, including contamination site investigations and karst cave location.
 
-My research interest includes:
+My research interests include:
 - Electrical resistivity tomography (ERT)
 - Multichannel analysis of surface waves (MASW) 
 - Seismic ambient noise imaging
-- Shallow surface geophysics, Environmental issues.
+- Shallow surface geophysics, Environmental issues
 
 # 🎓 Educations
 - 2022.09 - Present, <a href="https://www.sustech.edu.cn/en/"><img class="png" src="images/sustech.png" width="30pt"></a> Southern University of Science and Technology, Shenzhen China (GPA: 3.56/4). 
@@ -103,7 +103,7 @@ My research interest includes:
 - *2024.06*, Volunteer at the 11th International Conference on Environmental and Engineering Geophysics, Shenzhen, China `(ICEEG2024).`
 - *2024.05*, Volunteer at the International Workshop on Gravity, Electrical & Magnetic Methods and Their Applications, Shenzhen, China`(GEM2024).`
 - *2023.08*, Volunteer at the 16th China International Geo-electromagnetism Workshop, Shenzhen, China `(CIGEW2023).`
-- *2023.06 - 2023.09,* Seminar Assistant at the Department of Earth and Space Sciences in SUSTechm Shenzhen, China. 
+- *2023.06 - 2023.09,* Seminar Assistant at the Department of Earth and Space Sciences in SUSTech Shenzhen, China. 
 
 # 🏄 Skills and Languages
 - **Programming**: Python, Matlab, Jekyll, Linux, etc.
@@ -114,4 +114,4 @@ My research interest includes:
 # 📷 Interests
 - **Sports**: Swimming, Hiking.
 - **Photography**: [Photography Portfolio](https://www.xiaohongshu.com/user/profile/5f8ef7ff0000000001002b56) Sometimes I just wanna go out and enjoy the sunshine.
-- **Volunteering**: Conferences Volunteering(100+ hours), maintain individual dedication and zest for life first hand.
+- **Volunteering**: Conferences Volunteering (100+ hours), maintain individual dedication and zest for life first hand.
