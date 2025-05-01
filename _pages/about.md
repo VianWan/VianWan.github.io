@@ -32,6 +32,17 @@ My research interests include:
 
 # 📝 Projects
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05 </div><img src='images/ANT+ERT.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- ERT is sensitive to fluids, while the low depth resolution limits its further application. ANT provides higher vertical resolution, making it an ideal complement to enhance the accuracy and reliability of ERT imaging. 
+- Unlike joint inversion based on cross-gradient or petrophysics, the use of a model weighting matrix is more flexible and computationally efficient, allowing better integration of the high-resolution structure of ANT into the ERT inversion process. 
+- To validate the algorithm’s reliability, a field experiment was conducted. The conventional ERT inversion produced coarse results with less confidence for further geological interpretation. In contrast, the resistivity model incorporating ANT structure exhibited higher spatial resolution and sharper boundary delineation, confirming the feasibility of enhancing ERT imaging precision through structural constraints.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10 </div><img src='images/MT.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
